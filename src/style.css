@@ -1,0 +1,57 @@
+body {
+    background-color: #f2f3f5;
+    color: #4b5a78;
+    font-family: 'Poppins', sans-serif;
+    src: url(https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap);
+    text-align: center;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    color: dodgerblue;
+}
+
+#ads {
+    font-family: 'Poppins', sans-serif;
+    font-weight: lighter;
+    color: crimson;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-weight: bold;
+}
+
+#a2 {
+     color: blue;
+} 
+
+#a3 {
+     color: blue;
+}
+
+#a4 { 
+    color: blue; 
+} 
+
+#a5 { 
+    color: blue; 
+}
+
+#a39 { 
+    color: blue; 
+}
+
+#readmore { 
+    color: orange;
+}
+
+.webtitle {
+    color: rgb(0 235 176);
+}
+
+li {
+    list-style-type: none;
+}
+
